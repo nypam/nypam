@@ -1,9 +1,8 @@
 ### Hi, I'm Jacques 👋
 
-CPO and co-founder of [HEEBOO](https://heeboo.com), the fan participation platform.
+CPO and co-founder of [HEEBOO](https://heeboo.com/). We're building the participation layer for fandom: the place where fans back, shape and grow the IP they care about.
 
-Fandom is already infrastructure. We're building the layer for it, starting with the
-[Claynosaurz](https://github.com/Claynosaurz-Inc) franchise.
+First up: [Claynosaurz](https://github.com/Claynosaurz-Inc).
 
 **What I work on**
 - Product and UX for fan-owned experiences
