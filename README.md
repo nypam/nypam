@@ -1,6 +1,7 @@
 ### Hi, I'm Jacques 👋
 
 CPO and co-founder of [HEEBOO](https://heeboo.com), the fan participation platform.
+
 Fandom is already infrastructure. We're building the layer for it, starting with the
 [Claynosaurz](https://github.com/Claynosaurz-Inc) franchise.
 
